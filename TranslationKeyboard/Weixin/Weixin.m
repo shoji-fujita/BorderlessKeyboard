@@ -8,7 +8,7 @@
 
 #import "Weixin.h"
 
-#define APPID @"wx3fa915dfd481c58b" // TODO:こことURLスキームに、登録したAppIDを書き込む
+#define APPID @"" // TODO:こことURLスキームに、登録したAppIDを書き込む
 
 
 @implementation Weixin
